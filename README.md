@@ -7,7 +7,7 @@
 
 To download weights
 
-`cd yolo-coco`
+`cd yolov3-coco`
 
 `wget https://pjreddie.com/media/files/yolov3.weights`
 
