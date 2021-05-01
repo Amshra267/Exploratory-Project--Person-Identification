@@ -1,2 +1,4 @@
 .vscode
 __pycache__
+yolo_cnfgs/yolov3.weights
+results/
