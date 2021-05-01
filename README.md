@@ -21,8 +21,12 @@ pip install opencv-python numpy
 pip install facenet-pytorch
 ```
 
-[Report](Exploratory Report (19095009-12).pdf)
+[Report](Exploratory-Report-(19095009-12).pdf)
+
+[Report in Google docs for gifs](https://docs.google.com/document/d/1w5J7ec3nHfs_MFb09nWQ1awAAYqG2gct2jT3OvBx8aY/edit?usp=sharing)
+
 [Final-Presentation](https://docs.google.com/presentation/d/1Mb5L-_ywcULafsDxovUbLNHrCh3a8EVWXlwvK3sSymQ/edit?usp=sharing)
+
 ## Resources
  - [PyTorch-tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
  - [pytorch-official docs](https://pytorch.org/docs/stable/index.html)
